@@ -1,0 +1,135 @@
+country,total_spend,intent,fund_amount_in_USD_millions,lat,lon
+Afghanistan,158735877.0,['Development' 'Representational'],158.74,33.93911,67.709953
+Africa,644621617.0,['Development' 'Mixed'],644.62,-8.783195,34.508523
+Africa,173832289.0,['Development'],173.83,-8.783195,34.508523
+Albania,291070772.0,['Mixed' 'Development' 'Representational'],291.07,41.153332,20.168331
+Algeria,55730345.0,['Development'],55.73,28.033886,1.659626
+Angola,9275327477.0,['Development' 'Mixed'],9275.33,-11.202692,17.873887
+Antigua & Barbuda,146764849.0,['Development'],146.76,17.0746557,-61.8175207
+Argentina,2396084912.0,['Mixed'],2396.08,-38.416097,-63.61667199999999
+Bahamas,2843604323.0,['Mixed' 'Development'],2843.6,25.03428,-77.39627999999999
+Bangladesh,4247680565.0,['Development' 'Commercial' 'Mixed'],4247.68,23.684994,90.356331
+Barbados,1908434.0,['Development'],1.91,13.193887,-59.543198
+Belarus,3963300308.0,['Development' 'Mixed'],3963.3,53.709807,27.953389
+Benin,226730062.0,['Development'],226.73,9.30769,2.315834
+Bolivia,933120221.0,['Development' 'Mixed'],933.12,-16.290154,-63.58865299999999
+Bosnia-Herzegovina,543639261.0,['Development' 'Mixed'],543.64,43.915886,17.679076
+Botswana,1347259558.0,['Development' 'Commercial'],1347.26,-22.328474,24.684866
+Brazil,8528111507.0,['Commercial' 'Mixed' 'Development'],8528.11,-14.235004,-51.92528
+Bulgaria,95955061.0,['Mixed' 'Development'],95.96,42.733883,25.48583
+Burundi,264612903.0,['Development'],264.61,-3.373056,29.918886
+Cambodia,7806262248.0,['Development' 'Mixed' 'Representational' 'Commercial'],7806.26,12.565679,104.990963
+Cambodia,508377.0,['Development'],0.51,12.565679,104.990963
+Cambodia,508377.0,['Development'],0.51,12.565679,104.990963
+Cameroon,4774075839.0,['Commercial' 'Development' 'Mixed'],4774.08,7.369721999999999,12.354722
+Cape Verde,53307441.0,['Development'],53.31,16.5388,-23.0418
+Central African Rep.,253772278.0,['Mixed' 'Development'],253.77,6.611110999999999,20.939444
+Chad,1085067948.0,['Mixed' 'Development'],1085.07,15.454166,18.732207
+Chad,11744070.0,['Development'],11.74,15.454166,18.732207
+Chile,3773094.0,['Development'],3.77,-35.675147,-71.542969
+Colombia,109767576.0,['Mixed' 'Development'],109.77,4.570868,-74.297333
+Comoros,27448612.0,['Representational' 'Development'],27.45,-11.6455,43.3333
+Congo,651799378.0,['Development' 'Mixed'],651.8,-4.038333,21.758664
+Congo,1810260510.0,['Development' 'Mixed'],1810.26,-4.038333,21.758664
+Cook Islands,36729998.0,['Development'],36.73,-21.236736,-159.777671
+Costa Rica,144699453.0,['Representational' 'Development'],144.7,9.748916999999999,-83.753428
+Cote D'Ivoire,2080269732.0,['Commercial' 'Development'],2080.27,7.539988999999999,-5.547079999999999
+Cuba,6660347569.0,['Development'],6660.35,21.521757,-77.781167
+Djibouti,33318033.0,['Development'],33.32,11.825138,42.590275
+Dominica,159232985.0,['Development'],159.23,15.414999,-61.37097600000001
+Ecuador,9734516329.0,['Development' 'Mixed' 'Commercial'],9734.52,-1.831239,-78.18340599999999
+Egypt,54662420.0,['Representational' 'Development' 'Mixed'],54.66,26.820553,30.802498
+Equatorial Guinea,1822315034.0,['Development'],1822.32,1.650801,10.267895
+Eritrea,432763049.0,['Development'],432.76,15.179384,39.782334
+Ethiopia,10660458987.0,['Development' 'Mixed' 'Commercial'],10660.46,9.145000000000001,40.489673
+Fiji,834136123.0,['Representational' 'Development' 'Mixed'],834.14,-17.713371,178.065032
+Gabon,643579273.0,['Development' 'Commercial'],643.58,-0.803689,11.609444
+Georgia,9188982.0,['Development'],9.19,32.1656221,-82.9000751
+Ghana,4376386227.0,['Development' 'Mixed' 'Representational'],4376.39,7.946527,-1.023194
+Grenada,109625594.0,['Development'],109.63,12.1165,-61.67899999999999
+Guinea,614792343.0,['Development'],614.79,9.945587,-9.696645
+Guinea-Bissau,148370394.0,['Representational' 'Development'],148.37,11.803749,-15.180413
+Guyana,381701203.0,['Development'],381.7,4.860416,-58.93018
+Haiti,11232676.0,['Development'],11.23,18.971187,-72.285215
+India,1383467897.0,['Commercial'],1383.47,20.593684,78.96288
+Indonesia,7244486054.0,['Development' 'Mixed' 'Commercial'],7244.49,-0.789275,113.921327
+Iran,2148073486.0,['Development'],2148.07,32.427908,53.688046
+Iraq,8552347.0,['Development'],8.55,33.223191,43.679291
+Jamaica,1546275576.0,['Development' 'Representational'],1546.28,18.109581,-77.297508
+Jordan,108698918.0,['Development'],108.7,31.364295,36.605822
+Kazakhstan,6475764141.0,['Commercial' 'Development' 'Mixed'],6475.76,48.019573,66.923684
+Kenya,5367565106.0,['Development' 'Mixed'],5367.57,-0.023559,37.906193
+Korea,236681985.0,['Development'],236.68,35.907757,127.766922
+Kyrgyz Republic,2337421286.0,['Development' 'Mixed'],2337.42,41.20438,74.766098
+Laos,11892643947.0,['Mixed' 'Development'],11892.64,19.85627,102.495496
+Lebanon,5990816.0,['Development'],5.99,33.854721,35.862285
+Lesotho,150129256.0,['Development'],150.13,-29.609988,28.233608
+Liberia,289963491.0,['Development' 'Mixed' 'Representational'],289.96,6.428055,-9.429499000000002
+Libya,3435716.0,['Development'],3.44,26.3351,17.228331
+Macedonia,795911851.0,['Commercial' 'Development'],795.91,41.608635,21.745275
+Madagascar,106163987.0,['Development'],106.16,-18.766947,46.869107
+Malawi,538652084.0,['Development'],538.65,-13.254308,34.301525
+Malaysia,1302484949.0,['Mixed' 'Development'],1302.48,4.210484,101.975766
+Maldives,283516057.0,['Development'],283.52,3.202778,73.22068
+Mali,665636814.0,['Development'],665.64,17.570692,-3.996166
+Malta,15251300.0,['Development'],15.25,35.937496,14.375416
+Mauritania,1064285803.0,['Development'],1064.29,21.00789,-10.940835
+Mauritius,1890048741.0,['Development' 'Mixed'],1890.05,-20.348404,57.55215200000001
+Mexico,423030741.0,['Development' 'Mixed'],423.03,23.634501,-102.552784
+Micronesia,33601763.0,['Development' 'Representational'],33.6,7.425554,150.550812
+Moldova,6461402.0,['Development'],6.46,47.411631,28.369885
+Mongolia,272331352.0,['Development'],272.33,46.862496,103.846656
+Montenegro,1021274219.0,['Mixed' 'Development'],1021.27,42.708678,19.37439
+Morocco,623704153.0,['Development'],623.7,31.791702,-7.092619999999999
+Mozambique,2421615409.0,['Development' 'Commercial'],2421.62,-18.665695,35.529562
+Myanmar,1541834405.0,['Development' 'Mixed'],1541.83,21.916221,95.955974
+Namibia,422056789.0,['Development' 'Representational' 'Mixed'],422.06,-22.95764,18.49041
+Nepal,633673702.0,['Development' 'Representational' 'Mixed'],633.67,28.394857,84.12400799999999
+New Zealand,3469359.0,['Representational' 'Development' 'Mixed'],3.47,-40.900557,174.885971
+Nicaragua,9434344.0,['Development'],9.43,12.865416,-85.207229
+Niger,1434537629.0,['Development' 'Mixed'],1434.54,17.607789,8.081666
+Nigeria,3973583300.0,['Development' 'Commercial' 'Mixed'],3973.58,9.081999,8.675277
+Niue,275783.0,['Development'],0.28,-19.054445,-169.867233
+Pakistan,19016367908.0,['Development' 'Mixed' 'Representational' 'Commercial'],19016.37,30.375321,69.34511599999999
+Palestinian Adm. Areas,19421397.0,['Development'],19.42,NaN,
+Papua New Guinea,344792704.0,['Development' 'Mixed'],344.79,-6.314992999999999,143.95555
+Peru,98932465.0,['Development' 'Mixed' 'Representational'],98.93,-9.189967,-75.015152
+Philippines,534775808.0,['Development'],534.78,12.879721,121.774017
+Romania,2358710.0,['Development'],2.36,45.943161,24.96676
+Russia,33965632924.0,['Commercial' 'Development'],33965.63,61.52401,105.318756
+Rwanda,690003006.0,['Development'],690.0,-1.940278,29.873888
+Samoa,319894885.0,['Development'],319.89,-13.759029,-172.104629
+Senegal,667460169.0,['Development'],667.46,14.497401,-14.452362
+Serbia,296815951.0,['Development'],296.82,44.016521,21.005859
+Seychelles,25292687.0,['Development'],25.29,-4.679574,55.491977
+Sierra Leone,653567344.0,['Development'],653.57,8.460555,-11.779889
+Somalia,25883131.0,['Development'],25.88,5.152149,46.199616
+South Africa,3025336992.0,['Development' 'Commercial'],3025.34,-30.559482,22.937506
+South Sudan,74395229.0,['Development' 'Mixed'],74.4,6.876991899999999,31.3069788
+Sri Lanka,10688509280.0,['Mixed' 'Development' 'Commercial' 'Representational'],10688.51,7.873053999999999,80.77179699999999
+St. Lucia,47269067.0,['Development'],47.27,13.909444,-60.978893
+Sudan,6858718006.0,['Development' 'Commercial' 'Mixed'],6858.72,12.862807,30.217636
+Suriname,353939916.0,['Development'],353.94,3.919305,-56.027783
+Syria,5373579.0,['Development'],5.37,34.80207499999999,38.996815
+Tajikistan,1418578704.0,['Development'],1418.58,38.861034,71.276093
+Tanzania,3110320757.0,['Development' 'Mixed'],3110.32,-6.369028,34.888822
+Tanzania,45114910.0,['Development'],45.11,-6.369028,34.888822
+Thailand,13952529.0,['Development'],13.95,15.870032,100.992541
+Timor-Leste,21959524.0,['Development'],21.96,-8.874217,125.727539
+Togo,341245363.0,['Development'],341.25,8.538689,0.972146
+Tonga,329123713.0,['Development'],329.12,-21.178986,-175.198242
+Trinidad & Tobago,197596990.0,['Development'],197.6,10.691803,-61.222503
+Tunisia,14490602.0,['Development'],14.49,33.886917,9.537499
+Turkey,1384817436.0,['Development' 'Mixed'],1384.82,38.963745,35.243322
+Turkmenistan,10559196686.0,['Mixed' 'Development' 'Commercial'],10559.2,38.969719,59.556278
+Uganda,1514077683.0,['Development' 'Mixed' 'Representational'],1514.08,1.373333,32.290275
+Ukraine,3698317911.0,['Development' 'Mixed'],3698.32,48.379433,31.1655799
+United Arab Emirates,31771063.0,['Mixed'],31.77,23.424076,53.847818
+Uruguay,6452642.0,['Development'],6.45,-32.522779,-55.765835
+Uzbekistan,1703984744.0,['Commercial' 'Development' 'Mixed'],1703.98,41.377491,64.585262
+Vanuatu,335167175.0,['Development' 'Representational' 'Mixed'],335.17,-15.376706,166.959158
+Venezuela,9362636656.0,['Mixed' 'Commercial' 'Development'],9362.64,6.42375,-66.58973
+Viet Nam,4006182590.0,['Development' 'Representational' 'Mixed' 'Commercial'],4006.18,14.058324,108.277199
+Yemen,180273789.0,['Development' 'Representational'],180.27,15.552727,48.516388
+Zambia,3536591379.0,['Mixed' 'Development' 'Commercial' 'Representational'],3536.59,-13.133897,27.849332
+Zimbabwe,3727826461.0,['Development' 'Representational' 'Commercial' 'Mixed'],3727.83,-19.015438,29.154857
